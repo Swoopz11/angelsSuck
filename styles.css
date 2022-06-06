@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(208, 3, 44);
+}
+h1 {
+    color: rgb(208, 3, 44);
+    background-color: rgb(240, 248, 255);
+    
+}
+h2 {
+    color: aliceblue;
+}
+h2 button{
+    color: rgb(208, 3, 44);
+    background-color: rgb(240, 248, 255);
+}
+p {
+    color: aliceblue;
+    
+}
+h4 {
+    color: rgb(208, 3, 44);
+    font-size: x-large;
+    font-weight: bolder;
+    background-color: rgb(240, 248, 255);
+}
+img {
+    width: 40vh;
+    float: left;
+    padding: 20px;
+}
+
+img #jordan {
+    float: left;
+    width: 20vw;
+    padding: 20px;
+}
